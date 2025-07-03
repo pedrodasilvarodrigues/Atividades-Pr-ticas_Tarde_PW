@@ -20,7 +20,7 @@ let numeroProva = 3
 for (let i=0; i<numeroProva; i++){
 let nota = parseFloat(prompt('digite sua nota da prova : ', + (i)))
     notas.push(notas);
-    somaNotas += nota ;
+     somaNotas += nota ;
 }
 
 let medianotas =(somaNotas/numeroProva);
