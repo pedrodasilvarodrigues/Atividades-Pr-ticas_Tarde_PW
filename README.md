@@ -1,1 +1,1 @@
-oi
+Esta coleção de exercícios foi elaborada a partir das atividades propostas pelo professor durante o curso técnico, com o objetivo de aprimorar competências práticas e consolidar conhecimentos essenciais para o desenvolvimento profissional.
