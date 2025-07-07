@@ -1,7 +1,6 @@
 # 🎓 Atividades do Curso Técnico - SENAI Muriaé
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio?style=flat-square&color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio?style=flat-square&color=green)
+
 
 ---
 
@@ -14,7 +13,7 @@ Aqui você encontrará exercícios, projetos e materiais para aprendizado práti
 
 ## Imagem do projeto
 
-![Logo SENAI Muriaé](./images/logo-senai.png)
+https://tse2.mm.bing.net/th/id/OIP.2toC5XKhzMYhxhooVyh7vgHaB5?rs=1&pid=ImgDetMain&o=7&rm=3
 
 ---
 
